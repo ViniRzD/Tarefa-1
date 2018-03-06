@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ViniRzD/Tarefa-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ViniRzD/Tarefa-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<h1>Torta de limão</h1>
+</head>
+<body>
+<style>
+  <div>
+<h2>Ingredientes</h2>
+<h3>1 pacote (200 g) de biscoito maisena</h3>
+<h3>50 g de manteiga derretida</h3>
+<h3>2 latas de leite condensado</h3>
+<h3>1 caixinha (200g) de creme de leite</h3>
+<h3>Suco de 1 limão</h3>
+<h3>3/4 xícara de suco de limão</h3>
+<h3>1 colher (sopa) de raspas de limão</h3>
+  </div>
+  </style>
+  </body>
+</html>
